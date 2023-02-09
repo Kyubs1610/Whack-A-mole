@@ -1,3 +1,5 @@
 # Whack-A-mole
 
-![](https://tenor.com/view/emmanuel-jdz-gif-24502401)
+Homemade Whack a mole using a nice picture of one of my coach.
+
+![](https://media.tenor.com/k7QJGt6WChYAAAAd/emmanuel-jdz.gif)
